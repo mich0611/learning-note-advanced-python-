@@ -1,0 +1,8 @@
+INFO:__main__:6.0
+INFO:__main__:3.0
+INFO:__main__:6.0
+INFO:__main__:3.0
+INFO:__main__:6.0
+INFO:__main__:0.0
+ERROR:__main__:Attempting to divide by 0!
+WARNING:__main__:The result value is None!
