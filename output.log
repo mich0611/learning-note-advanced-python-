@@ -1,8 +1,23 @@
-INFO:__main__:6.0
-INFO:__main__:3.0
-INFO:__main__:6.0
-INFO:__main__:3.0
-INFO:__main__:6.0
-INFO:__main__:0.0
-ERROR:__main__:Attempting to divide by 0!
-WARNING:__main__:The result value is None!
+2022-05-15 16:48:33,511 INFO - 123
+2022-05-15 16:48:33,513 CRITICAL - -13
+2022-05-15 16:48:43,800 INFO - 123
+2022-05-15 16:48:43,800 CRITICAL - -13
+2022-05-15 16:49:00,364 INFO - 123
+2022-05-15 16:49:00,366 CRITICAL - -13
+2022-05-15 16:52:16,701 INFO - 123
+2022-05-15 16:52:16,701 CRITICAL - -13
+Starting Division!
+6.0
+8.0
+Starting Division!
+Starting Division!
+6.0
+6.0
+8.0
+8.0
+Starting Division!
+Starting Division!
+9.0
+9.0
+3.0
+3.0
